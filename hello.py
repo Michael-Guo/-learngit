@@ -1,3 +1,3 @@
 # -*- coding: utf-8 .*_
-print('hello,world.')
-
+#!/usr/bin/env python
+print('hello, world.')
